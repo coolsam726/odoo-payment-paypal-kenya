@@ -15,11 +15,7 @@
     "data": [
         "views/payment_provider_views.xml"
     ],
-    'assets': {
-        'web.assets_frontend': [
-            'payment_paypal_kenya/static/src/**/*',
-        ],
-    },
+    'assets': {},
     "installable": True,
     "application": False,
     "auto_install": False,
